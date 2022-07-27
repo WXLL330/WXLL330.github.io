@@ -1647,10 +1647,6 @@ header.header {
   position: fixed;
   z-index: 30;
   left: 30px;
-  width: 24px;
-}
-.back-to-top span {
-  display: none;
 }
 @media (max-width: 991px) {
   .back-to-top {
@@ -2651,7 +2647,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #210a45;
+  background: #ff54ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
