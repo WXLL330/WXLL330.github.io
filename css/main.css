@@ -2651,7 +2651,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #e04dff;
+  background: #63ffff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2661,7 +2661,6 @@ hr {
   width: 4px;
 }
 .links-of-blogroll-item {
-  display: inline-block;
   padding: 2px 10px;
 }
 .links-of-blogroll-item a {
